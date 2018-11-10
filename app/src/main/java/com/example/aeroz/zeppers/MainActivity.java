@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
     void myFunction(){
         int a = 5;
     }
+    void otherFunction(){
+        double a = 5.3;
+    }
 }
