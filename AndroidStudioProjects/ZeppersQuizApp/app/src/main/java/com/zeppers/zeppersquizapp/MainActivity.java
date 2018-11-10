@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
+    void function2()
+    {
+        
+    }
 
 }
